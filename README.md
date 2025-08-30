@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!--
-**davebayo/davebayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**davebayo/davebayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on my personal project: **My Closet**
 - 🌱 I’m currently learning how to integrate and work with **third‑party libraries and frameworks** to speed up development and add advanced features to my software projects  
