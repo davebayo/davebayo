@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**davebayo/davebayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**davebayo/davebayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [davebayoinspire@gmail.com]· [GitHub](https://github.com/davebayo) · [LinkedIn](https://www.linkedin.com/in/david-adebayo1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: *(He/Him/His)*
 - ⚡ Fun fact: I used to want to be a **professional wrestler**
--->
+
